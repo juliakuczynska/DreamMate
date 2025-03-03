@@ -1,11 +1,11 @@
 # DreamMate
 ##### [15.01.2025]
+##### DreamMate is a Python project developed for an NLP class during the Winter Semester of 2024/2025.
 
-DreamMate is a Python project developed for an NLP class during the Winter Semester of 2024/2025.
+DreamMate is your personal dream companion, designed for those who struggle with sleep and want to better understand their dreams.
+Our solution not only helps you interpret your dreams but also provides insights into improving your sleep habits. DreamMate is here to be your trusted sleep companion!
 
-DreamMate is your personal dream companion, designed for those who struggle with sleep and want to better understand their dreams. Our solution not only helps you interpret your dreams but also provides insights into improving your sleep habits. DreamMate is here to be your trusted sleep companion!
-
-![DreamMate Screenshot](resources/dreammatedemo.png)
+<img src="resources/dreammatedemo.png" alt="DreamMate Screenshot" width="800">
 
 ## Features
 
